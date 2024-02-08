@@ -12,5 +12,7 @@
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/1Cezzo/1Cezzo/output/snake.svg" alt="Snake animation" />
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/1Cezzo/1Cezzo/output/snake.svg" alt="Snake animation" />
+  </a>
 </div>
