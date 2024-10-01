@@ -16,3 +16,6 @@
     <img src="https://raw.githubusercontent.com/EmilJohns1/EmilJohns1/output/snake.svg" alt="Snake animation" />
   </a>
 </div>
+<div>
+    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
