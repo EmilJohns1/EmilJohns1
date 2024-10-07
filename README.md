@@ -12,9 +12,7 @@
 </div>
 
 <div>
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/EmilJohns1/EmilJohns1/output/snake.svg" alt="Snake animation" />
-  </a>
 </div>
 <div>
     <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
