@@ -1,7 +1,7 @@
 ### 🎓 Education
 **NTNU**  
-- B.Sc Computer Engineering (Software Development) | 2022 – 2025
-- M.Sc Computer Science (Software Systems, Year 1) | 2025 – present
+- B.Sc Computer Engineering (Software Development) | 2022 - 2025
+- M.Sc Computer Science (Software Systems, Year 1) | 2025 - present
 
 ---
 
